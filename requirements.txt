@@ -1,4 +1,1 @@
-Flask
-Jinja2
-Werkzeug
-wsgiref
+Flask==0.12.2
