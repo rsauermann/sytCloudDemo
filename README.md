@@ -27,3 +27,7 @@ App erstellen mittels
 
 ## App öffnen ##
 `heroku open`
+
+## Advanced Tutorial ##
+Guide um Heroku genauer kennen zu lernen (mittels Django Beispiel)
+<https://devcenter.heroku.com/articles/getting-started-with-python>
